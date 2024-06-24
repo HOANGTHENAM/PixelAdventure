@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b68fd3c44d382b4abd55d98f59a87d8, type: 3}
+  m_Name: LvSO
+  m_EditorClassIdentifier: 
+  lvs:
+  - {fileID: 880865775083983929, guid: 5cbcbcbf4d9810d468a05ec816fd869e, type: 3}
+  - {fileID: 6199362939504336539, guid: b010ce782a7d57340a96be87a2dbac2a, type: 3}
+  - {fileID: 1980492536484134080, guid: 534c373d3b773c44a87e47c449b77366, type: 3}
+  - {fileID: 96474199974694296, guid: bf40e8a3097845547b07ae01d5c31fe8, type: 3}
+  - {fileID: 8356331129169737948, guid: 4945403864dee0945b4337ad2ec5973b, type: 3}
+  currentLv: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c9825b3705b05a4dbc7a5cb8da9accd, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Mask Dude
+    characterSprite: {fileID: 1387281477, guid: 69d9f5b0ffbcb1540a5437a12ef38ca9, type: 3}
+  - characterName: Ninja Frog
+    characterSprite: {fileID: -1858089469, guid: 414019d1bdaf7ac469ae7d560533f735, type: 3}
+  - characterName: Pink Man
+    characterSprite: {fileID: 950691733, guid: 60b808e1130d4274ea4441f935126bc3, type: 3}
+  - characterName: Virtual Guy
+    characterSprite: {fileID: -333599818, guid: c3890a1293fc53842b7c212a32624b09, type: 3}
